@@ -37,9 +37,7 @@ y8 = zeros(1, 4);
 p = [0.0, 1.0, 1.0, 0.0];  %Resultado deseado
 p2 = [1.0, 0.0, 0.0, 1.0];
 
-
-
-disp("Codigo ejemplo 004, iniciando!");
+disp("RNA 5 FUNCIONANDO");
 
 % Generamos un ciclo para evaluar los 4 casos de las entradas x1 y x2
 disp("1ra fase, calculos iniciales");

@@ -22,7 +22,7 @@ c6 = 10.0;
 
 p = [1.0, 1.0, 0.0, 0.0];  %Resultado deseado
 
-disp("Codigo ejemplo 004, iniciando!");
+disp("RNA 2 ENTRENADA");
 
 % Generamos un ciclo para evaluar los 4 casos de las entradas x1 y x2
 disp("1ra fase, calculos iniciales");

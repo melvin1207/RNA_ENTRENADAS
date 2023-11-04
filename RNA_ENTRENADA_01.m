@@ -22,11 +22,9 @@ c6 = 1.0;
 
 p = [1.0, 1.0, 0.0, 0.0];  %Resultado deseado
 
-disp("Codigo ejemplo 004, iniciando!");
+disp("RNA 1 INICIADO");
 
 % Generamos un ciclo para evaluar los 4 casos de las entradas x1 y x2
-disp("1ra fase, calculos iniciales");
-
 for i = 1 : 4
     %se procesa la capa intermedia
     y3(i) = perceptron(x1(i), w1(1), x2(i), w2(1), 1, wb1(1), c3);
