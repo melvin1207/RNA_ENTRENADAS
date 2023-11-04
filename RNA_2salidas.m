@@ -34,8 +34,8 @@ y5 = zeros(1, 4);
 y6 = zeros(1, 4);
 y7 = zeros(1, 4);
 y8 = zeros(1, 4);
-p = [0.0, 0.0, 0.0, 1.0];  %Resultado deseado
-p2 = [0.0, 1.0, 1.0, 0.0];
+p = [0.0, 1.0, 1.0, 0.0];  %Resultado deseado
+p2 = [1.0, 0.0, 0.0, 1.0];
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Iniciamos de forma aleatoria los pesos de la RNA
